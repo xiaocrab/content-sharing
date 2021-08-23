@@ -1,1 +1,1 @@
-# images
+Only for image hosting use.
