@@ -1,1 +1,1 @@
-Only for image hosting use.
+Only for content sharing use.
